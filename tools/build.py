@@ -15,7 +15,7 @@ OUT = ROOT / "questions" / "yosou.md"
 GENRES = ["ことば", "地理・歴史", "政治・経済", "社会", "国際", "自然科学", "生活", "スポーツ", "芸術", "カルチャー"]
 INDICATORS = ["基礎学力", "社会生活力", "語彙力", "推察力", "分析力", "時事力"]
 LEVELS = {"A": "基礎", "B": "標準", "C": "難"}
-STATUSES = ["下書き", "確認済", "要修正", "採用", "不採用"]
+STATUSES = ["下書き", "出典待ち", "確認済", "要修正", "採用", "不採用"]
 COLUMNS = ["ID", "バッチ", "ジャンル", "指標", "難易度", "問題文", "選択肢1", "選択肢2", "選択肢3", "選択肢4",
            "正解", "解説", "出典URL", "時点", "ステータス", "作問者", "X投稿日", "X正答率"]
 
@@ -68,18 +68,18 @@ def check(rows):
 
 
 def summary(rows):
-    lines = ["## 集計", "", "| ジャンル | 問題数 | A | B | C | 採用 | 確認済 | 下書き | 要修正 | 不採用 |",
-             "|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|"]
+    lines = ["## 集計", "", "| ジャンル | 問題数 | A | B | C | " + " | ".join(STATUSES) + " |",
+             "|---|---:|---:|---:|---:|" + "---:|" * len(STATUSES)]
     for g in GENRES:
         rs = [r for r in rows if r["ジャンル"] == g]
         lv = Counter(r["難易度"] for r in rs)
         st = Counter(r["ステータス"] for r in rs)
-        lines.append(f"| {g} | {len(rs)} | {lv['A']} | {lv['B']} | {lv['C']} | {st['採用']} | {st['確認済']} | "
-                     f"{st['下書き']} | {st['要修正']} | {st['不採用']} |")
+        lines.append(f"| {g} | {len(rs)} | {lv['A']} | {lv['B']} | {lv['C']} | "
+                     + " | ".join(str(st[s]) for s in STATUSES) + " |")
     lv = Counter(r["難易度"] for r in rows)
     st = Counter(r["ステータス"] for r in rows)
-    lines.append(f"| **合計** | **{len(rows)}** | {lv['A']} | {lv['B']} | {lv['C']} | {st['採用']} | {st['確認済']} | "
-                 f"{st['下書き']} | {st['要修正']} | {st['不採用']} |")
+    lines.append(f"| **合計** | **{len(rows)}** | {lv['A']} | {lv['B']} | {lv['C']} | "
+                 + " | ".join(str(st[s]) for s in STATUSES) + " |")
     pos = Counter(r["正解"] for r in rows)
     ind = Counter(r["指標"] for r in rows)
     lines += ["", "正解の位置：" + "／".join(f"{p}番 {pos[p]}問" for p in "1234"),
