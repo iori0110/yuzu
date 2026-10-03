@@ -8,6 +8,7 @@
 
 | ファイル | 内容 |
 |---|---|
+| [HANDOFF.md](HANDOFF.md) | 別のセッションに引き継ぐためのプロンプト（現状と次にやること） |
 | [docs/01_exam-overview.md](docs/01_exam-overview.md) | 知識検定の基本データ（日程・形式・合格基準・教材） |
 | [docs/02_collected-questions.md](docs/02_collected-questions.md) | 集めた問題の出典と受検者の情報 |
 | [questions/collected.md](questions/collected.md) | 集めた公式例題・対策問題258問の一覧（ジャンル別・時事の割合つき。CSVから自動生成） |
