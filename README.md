@@ -11,7 +11,7 @@
 | [HANDOFF.md](HANDOFF.md) | 別のセッションに引き継ぐためのプロンプト（現状と次にやること） |
 | [docs/01_exam-overview.md](docs/01_exam-overview.md) | 知識検定の基本データ（日程・形式・合格基準・教材） |
 | [docs/02_collected-questions.md](docs/02_collected-questions.md) | 集めた問題の出典と受検者の情報 |
-| [questions/collected.md](questions/collected.md) | 集めた公式例題・対策問題1386問の一覧（公式Xの例題1128問を含む）（ジャンル別・時事の割合つき。CSVから自動生成） |
+| [questions/collected.md](questions/collected.md) | 集めた公式例題・対策問題2047問の一覧（公式Xの例題1789問を含む）（ジャンル別・時事の割合つき。CSVから自動生成） |
 | [docs/03_trends-and-strategy.md](docs/03_trends-and-strategy.md) | 出題の傾向と対策、想定問題の作り方、発信スケジュール |
 | [docs/04_revenue-estimate.md](docs/04_revenue-estimate.md) | 収益予測（キーワードプランナーの結果をもとに試算） |
 | [questions/yosou.csv](questions/yosou.csv) | **想定問題の元データ**（これを編集する） |

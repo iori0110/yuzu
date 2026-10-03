@@ -793,20 +793,20 @@
 
 出典：<https://www.jiji.com/jc/article?k=2026020900216&g=pol> <https://news.web.nhk/newsweb/na/na-k10015046481000> <https://www.nippon.com/ja/japan-data/h02703/>
 
-### SE-012［確認済］（標準・時事力・2026年1月時点）
+### SE-012［確認済］（標準・時事力・2025年10月時点）
 
-2026年1月、立憲民主党と新党「中道改革連合」をつくることで合意した政党はどこか。
+2025年10月、自民党と連立政権の合意を結んだ政党はどこか。
 
-1. 国民民主党
-2. 公明党 ✅
-3. 日本維新の会
-4. 社会民主党
+1. 公明党
+2. 日本維新の会 ✅
+3. 国民民主党
+4. 参政党
 
-**正解：2. 公明党**
+**正解：2. 日本維新の会**
 
-解説：公明党は1999年から続いた自民党との連立を2025年10月に離脱していた。新党は2026年2月の衆院選で49議席にとどまった。
+解説：公明党が、野党時代を含めて26年続いた自民党との協力関係を解消して連立を離れた後、高市早苗総裁と日本維新の会の吉村洋文代表が10月20日に連立政権合意書に署名した。維新は当初、閣僚を出さない「閣外協力」をとったが、2026年9月の内閣改造で初めて閣僚を出し、閣内協力に移った。
 
-出典：<https://cdp-japan.jp/news/20260116_0071> <https://www.jiji.com/jc/article?k=2026020900216&g=pol> <https://www.nippon.com/ja/japan-data/h02574/>
+出典：<https://www.jiji.com/jc/article?k=2025102000934&g=cyr> <https://www.nippon.com/ja/japan-data/h02574/> <https://www.jiji.com/jc/article?k=2026091700731&g=pol>
 
 ### SE-013［確認済］（難・時事力・2025年12月時点）
 
@@ -915,18 +915,18 @@
 
 ### SE-020［確認済］（標準・基礎学力）
 
-衆議院の解散による総選挙の日から30日以内に召集される国会は何か。
+罷免の訴追を受けた裁判官を裁く弾劾裁判所を設けるのはどこか。
 
-1. 通常国会
-2. 特別国会 ✅
-3. 緊急集会
-4. 臨時国会
+1. 内閣
+2. 国会 ✅
+3. 最高裁判所
+4. 法務省
 
-**正解：2. 特別国会**
+**正解：2. 国会**
 
-解説：正式名称は「特別会」で、内閣総理大臣の指名が行われる。衆議院の解散中に緊急の必要があるときに開かれるのは、参議院の緊急集会。
+解説：日本国憲法第64条にもとづき、国会が衆参両院の議員各7人で組織する。訴追を行うのは、別に設けられる裁判官訴追委員会（衆参各10人）。
 
-出典：<https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/dl-constitution.htm> <https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/kokkai/kokkai_kaiki.htm>
+出典：<https://laws.e-gov.go.jp/law/321CONSTITUTION> <https://laws.e-gov.go.jp/law/322AC1000000137>
 
 ## 社会（20問）
 
@@ -1110,20 +1110,20 @@
 
 出典：<https://www.mhlw.go.jp/stf/newpage_75950.html> <https://www.mhlw.go.jp/content/11200000/001753404.pdf> <https://www.mhlw.go.jp/content/11200000/001572925.pdf>
 
-### SH-013［確認済］（標準・時事力・2025年9月時点）
+### SH-013［確認済］（標準・時事力・2026年4月時点）
 
-2025年9月に始まった、市街地に出たクマなどを市町村の判断で猟銃で駆除できる制度は何か。
+2026年4月の改正民法の施行で、離婚後も父母の双方が子の親権を持つことを選べるようになった制度は何か。
 
-1. 特別狩猟
-2. 緊急銃猟 ✅
-3. 市街地射撃
-4. 臨時駆除
+1. 単独親権
+2. 共同親権 ✅
+3. 特別養子縁組
+4. 親権停止
 
-**正解：2. 緊急銃猟**
+**正解：2. 共同親権**
 
-解説：改正鳥獣保護管理法で導入された。それまで住宅地での猟銃の使用は原則として禁止されていた。2025年はクマによる人身被害が相次ぎ、「今年の漢字」にも「熊」が選ばれた。
+解説：それまで離婚後はどちらか一方の単独親権だった。父母の話し合いで共同親権か単独親権かを決め、合意できないときは家庭裁判所が判断する。DVや虐待のおそれがある場合は単独親権になる。
 
-出典：<https://news.web.nhk/newsweb/na/na-k10014908811000> <https://www.env.go.jp/content/000297714.pdf> <https://www.kanken.or.jp/kotoshinokanji/former/2025.html>
+出典：<https://www.moj.go.jp/MINJI/minji07_00357.html> <https://www.gov-online.go.jp/article/202607/entry-11439.html> <https://www.moj.go.jp/MINJI/minji07_00377.html>
 
 ### SH-014［確認済］（標準・時事力・2025年時点）
 
@@ -1217,18 +1217,18 @@
 
 ### SH-020［確認済］（基礎・社会生活力）
 
-日本の裁判で、同じ事件について原則として何回まで裁判を受けられるか。
+訪問販売などで契約した後、一定の期間内なら無条件で契約を解除できる制度は何か。
 
-1. 2回
-2. 3回 ✅
-3. 4回
-4. 5回
+1. リコール
+2. クーリング・オフ ✅
+3. セーフガード
+4. ペイオフ
 
-**正解：2. 3回**
+**正解：2. クーリング・オフ**
 
-解説：第一審、控訴審、上告審の「三審制」で、慎重に審理して正しい裁判を実現するためのしくみ。最高裁判所の裁判官は、任命後初めての衆院選のときに国民審査を受け、その後は10年を過ぎてから行われる衆院選のたびに審査を受ける。
+解説：訪問販売や電話勧誘販売では、契約書面を受け取った日から8日以内なら解除できる（マルチ商法などは20日以内）。「頭を冷やす（cooling off）」が語源。通信販売には適用されない。
 
-出典：<https://www.courts.go.jp/about/sosiki/gaiyo/index.html> <https://www.soumu.go.jp/senkyo/kokuminshinsa/seido_point.html>
+出典：<https://www.kokusen.go.jp/soudan_now/data/coolingoff.html> <https://www.no-trouble.caa.go.jp/what/doortodoorsales/> <https://kotobank.jp/word/クーリングオフ-1592>
 
 ## 国際（20問）
 
@@ -1519,18 +1519,18 @@ EU（欧州連合）の加盟国はいくつか。
 
 ### KK-020［確認済］（基礎・基礎学力）
 
-世界で最も人口が少ない独立国はどこか。
+国旗の中央に赤いカエデの葉が描かれている国はどこか。
 
-1. バチカン市国 ✅
-2. ツバル
-3. モナコ
-4. ナウル
+1. カナダ ✅
+2. スイス
+3. レバノン
+4. ペルー
 
-**正解：1. バチカン市国**
+**正解：1. カナダ**
 
-解説：市国内に住む人は約900人（2024年12月時点で882人）。面積も約0.44km²で世界最小の独立国で、日本の皇居（約1.15km²）の半分にも満たない。国籍は原則として、教皇庁などでの職務に就いている間に限って与えられる。
+解説：1965年に制定された「メープルリーフ旗」。カエデの樹液から作るメープルシロップはカナダの特産品。レバノンの国旗の中央に描かれているのはレバノンスギ。
 
-出典：<https://www.mofa.go.jp/mofaj/area/vatican/data.html> <https://kotobank.jp/word/%E3%81%B0%E3%81%A1%E3%81%8B%E3%82%93-3204172> <https://www.vatican.va/news_services/press/documentazione/documents/sp_ss_scv/informazione_generale/cittadinanza_it.html>
+出典：<https://www.canada.ca/en/canadian-heritage/services/flag-canada-history.html> <https://www.tokyo-np.co.jp/article/374568> <https://kids.gakken.co.jp/jiten/dictionary09400070/>
 
 ## 自然科学（20問）
 
@@ -1746,18 +1746,18 @@ EU（欧州連合）の加盟国はいくつか。
 
 ### SZ-015［確認済］（標準・基礎学力）
 
-地震のとき、震源から最初に届く揺れを起こす波はどれか。
+ヘリウムやネオンなど、周期表の18族に属する元素をまとめて何というか。
 
-1. P波 ✅
-2. 表面波
-3. S波
-4. 津波
+1. 貴ガス（希ガス） ✅
+2. ハロゲン
+3. アルカリ金属
+4. アルカリ土類金属
 
-**正解：1. P波**
+**正解：1. 貴ガス（希ガス）**
 
-解説：P波はPrimary（最初の）の頭文字。後から届くS波（Secondary）が大きな揺れを起こす。緊急地震速報は、P波をとらえてS波が来る前に知らせるしくみ。
+解説：ほかの物質とほとんど反応しない気体の元素で、ネオンは看板のネオンサイン、ヘリウムは風船や飛行船に使われる。以前は「希ガス」と書くのが一般的だったが、近年は「貴ガス」という表記が使われるようになった。
 
-出典：<https://www.jma.go.jp/jma/kishou/know/jishin/eew/shikumi/shikumi.html> <https://www.eri.u-tokyo.ac.jp/people/knishida/Seismology/body_wave.html>
+出典：<https://www.chemistry.or.jp/news/doc/kotogakko-kagakuyogo2015.pdf>
 
 ### SZ-016［確認済］（標準・基礎学力）
 
@@ -2018,18 +2018,18 @@ RNAには含まれるが、DNAには含まれない塩基はどれか。
 
 ### SK-013［確認済］（基礎・社会生活力）
 
-おせち料理の黒豆に込められた願いとして一般的なのはどれか。
+季節の花にちなむ呼び分けで、春のお彼岸に供えるあんこのもち菓子を何と呼ぶか。
 
-1. 子孫繁栄
-2. 学業成就
-3. まめに働けるように ✅
-4. 五穀豊穣
+1. おはぎ
+2. 夜船
+3. ぼたもち ✅
+4. 北窓
 
-**正解：3. まめに働けるように**
+**正解：3. ぼたもち**
 
-解説：「まめ」には勤勉、健康という意味があり、「まめに働き、まめに暮らせるように」との願いを込める。数の子は子孫繁栄、田作り（ごまめ）は五穀豊穣を願う。伊達巻は、巻物に似た形から学問や文化の発展を願うなどとされる（諸説あり）。
+解説：「牡丹餅」「お萩」と書くことから、春は牡丹にちなんで「ぼたもち」、秋は萩にちなんで「おはぎ」と呼び分けるという説がある。もちを搗（つ）かずに作るため「搗き知らず」とかけて、夏は船がいつ着いたかわからない「夜船（着き知らず）」、冬は北の窓から月が見えない「北窓（月知らず）」とも呼ぶ。今では季節で呼び分けないことも多い。
 
-出典：<https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2212/spe12_03.html> <https://www.kibun.co.jp/knowledge/shogatsu/osechiryori/iware.html>
+出典：<https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2302/spe14_04.html> <https://zenkaren.net/archives/21776>
 
 ### SK-014［確認済］（基礎・基礎学力）
 
@@ -2425,18 +2425,18 @@ RNAには含まれるが、DNAには含まれない塩基はどれか。
 
 ### SP-020［確認済］（標準・基礎学力）
 
-競泳の個人メドレーで、最初に泳ぐ泳法はどれか。
+スポーツクライミングで、高さ15mの壁を登る速さを競う種目は何か。
 
-1. バタフライ ✅
-2. 背泳ぎ
-3. 自由形
-4. 平泳ぎ
+1. スピード ✅
+2. ボルダリング
+3. リード
+4. コンバインド
 
-**正解：1. バタフライ**
+**正解：1. スピード**
 
-解説：個人メドレーはバタフライ→背泳ぎ→平泳ぎ→自由形の順。一方、メドレーリレーは水中からスタートする背泳ぎが最初になる。
+解説：高さ15m・95度に前傾した壁の世界共通のルートを2人が並んで登り、速さを競う。世界記録は男子が4秒台、女子が5秒台（2026年時点）。ボルダーは高さ5m以下の壁で登れた課題の数を、リードは高さ12m以上の壁で到達した高さを競う。
 
-出典：<https://aquatics.or.jp/assets/files/pdf/pages/about/rule/r_swim20230401.pdf>
+出典：<https://www.joc.or.jp/sports/sport_climbing/index.html> <https://oca.asia/news/7252-zhao-yicheng-sets-world-record-and-wins-gold-in-mens-speed-climbing-at-sanya-2026.html> <https://www.nbcsports.com/olympics/news/emma-hunt-speed-climbing-world-record>
 
 ## 芸術（20問）
 
@@ -2697,48 +2697,48 @@ RNAには含まれるが、DNAには含まれない塩基はどれか。
 
 ### GJ-018［確認済］（難・基礎学力）
 
-松尾芭蕉の『おくのほそ道』の旅で、結びの地となったのはどこか。
+ルノワールの『ムーラン・ド・ラ・ギャレットの舞踏会』に描かれた、パリの地区はどこか。
 
-1. 大垣 ✅
-2. 象潟
-3. 平泉
-4. 金沢
+1. モンマルトル ✅
+2. モンパルナス
+3. シャンゼリゼ
+4. マレ
 
-**正解：1. 大垣**
+**正解：1. モンマルトル**
 
-解説：1689年に江戸・深川を出発し、東北・北陸を巡って約150日後に美濃国の大垣（岐阜県）に着いた。大垣には「奥の細道むすびの地記念館」がある。
+解説：モンマルトルの丘にあったダンスホールで、休日を楽しむ人々を木漏れ日とともに描いた。作品はパリのオルセー美術館が所蔵している。モンマルトルは、ピカソやゴッホなど多くの画家が暮らした芸術家の町。
 
-出典：<https://www.ogakikanko.jp/spot/kinenkan/> <https://www2.city.ogaki.lg.jp/ogakids/rekisi/hosomiti.html>
+出典：<https://www.fujibi.or.jp/collection/artwork/01262/> <https://www.nact.jp/exhibition_special/2016/renoir/> <https://www.museepicassoparis.fr/en/picasso-timeline>
 
 ### GJ-019［確認済］（難・基礎学力）
 
-ロダンの彫刻『考える人』は、もともとどの作品の一部として作られたか。
+「痩蛙まけるな一茶是に有」などの句で知られる小林一茶の出身地は、現在の何県か。
 
-1. カレーの市民
-2. バルザック像
-3. 接吻
-4. 地獄の門 ✅
+1. 新潟県
+2. 山形県
+3. 群馬県
+4. 長野県 ✅
 
-**正解：4. 地獄の門**
+**正解：4. 長野県**
 
-解説：ダンテの『神曲』地獄篇を題材にした『地獄の門』の上部で、地獄をのぞき込むダンテ自身の姿として構想された。東京・上野の国立西洋美術館の前庭では、『地獄の門』と『考える人』の両方を見られる。
+解説：信濃国柏原（現在の長野県信濃町）の出身。15歳で江戸へ奉公に出て、のちに俳諧を学んだ。生涯に2万句ほどを残したとされ、小さな生き物を詠んだ句が多い。
 
-出典：<https://collection.nmwa.go.jp/S.1959-0040.html> <https://collection.nmwa.go.jp/S.1959-0045.html> <https://www.kyohaku.go.jp/jp/learn/home/dictio/choukoku/49rodan/>
+出典：<https://www.issakinenkan.com/about_issa/> <https://www.web.nhk/tv/an/nihongo/pl/series-tep-K8MXJPY2MM/ep/3J8223ZY5X> <https://www.nagano-museum.com/info/detail.php?fno=46&tn=3>
 
 ### GJ-020［確認済］（難・基礎学力）
 
-芥川龍之介の小説『羅生門』の題材となった古典はどれか。
+娘をモデルにした『麗子像』の連作で知られる画家は誰か。
 
-1. 今昔物語集 ✅
-2. 古今著聞集
-3. 宇治拾遺物語
-4. 日本霊異記
+1. 岸田劉生 ✅
+2. 黒田清輝
+3. 藤田嗣治
+4. 梅原龍三郎
 
-**正解：1. 今昔物語集**
+**正解：1. 岸田劉生**
 
-解説：平安時代末期の説話集『今昔物語集』の話をもとにしている。題名の羅生門は、平安京の正門「羅城門」のこと。同じく今昔物語集に題材をとった『鼻』は、夏目漱石に絶賛された。
+解説：大正から昭和初期の洋画家で、1918年（大正7年）から娘の麗子を描き始めた。東京国立博物館が所蔵する『麗子微笑』（1921年）は重要文化財。父は、ジャーナリストで実業家の岸田吟香。
 
-出典：<https://kotobank.jp/word/%E7%BE%85%E7%94%9F%E9%96%80-150616> <https://kotobank.jp/word/%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B-14504>
+出典：<https://online.bunka.go.jp/heritages/detail/430284> <https://artscape.jp/study/art-achive/10119810_1982.html> <https://kenbi.pref.gifu.lg.jp/events/ryusei/>
 
 ## カルチャー（20問）
 
